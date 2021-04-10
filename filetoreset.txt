@@ -1,1 +1,3 @@
 first commit
+
+error code added for soft rest
